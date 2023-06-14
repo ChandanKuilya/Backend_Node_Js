@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "name": "prismforce_backendassignment_solution_",
+  "description": "Solution for the assignment to test fundamental knowledge for Prism Force. This can be written in any language or framework.",
+  "version": "1.0.0",
+  "main": "SolutioncodeFile.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandan Kuilya",
+  "license": "ISC"
+}

@@ -1,0 +1,22 @@
+{
+  "expenseData": [
+    {
+      "amount": 50,
+      "startDate": "2021-01-01T00:00:00.000Z"
+    },
+    {
+      "amount": 20,
+      "startDate": "2021-02-01T00:00:00.000Z"
+    },
+    {
+      "amount": 30,
+      "startDate": "2021-03-01T00:00:00.000Z"
+    }
+  ],
+  "revenueData": [
+    {
+      "amount": 60,
+      "startDate": "2021-02-01T00:00:00.000Z"
+    }
+  ]
+}
